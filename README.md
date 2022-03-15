@@ -14,3 +14,5 @@ Data repository for geo spatial applications about Ukraine
 - [Ukraine Population Prospects](https://observablehq.com/@marianpetruk/ukraine-population-prospects)
 - [Russia-Ukraine War: Incidents over time](https://observablehq.com/@oscarpas/ukraine-conflict-incidents-over-time)
 - [How flights between Europe and Eastern Asia got disrupted](https://observablehq.com/@espinielli/war-in-ukraine-airspace-blockade)
+- [Ukrainian Refugees](https://observablehq.com/@rafacmc/ukrainian-refugees)
+- [Where millions of Ukrainian refugees are fleeing from war](https://observablehq.com/@chriszs/where-1-3-million-ukrainian-refugees-fled-from-war)
