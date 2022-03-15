@@ -1,0 +1,297 @@
+{
+  "fields": [
+    {
+      "name": "﻿year",
+      "type": "year",
+      "format": "default"
+    },
+    {
+      "name": "ISO3",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "ADM0_NAME",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "ADM0_PCODE",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "F_TL",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_TL",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_TL",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_00_04",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_05_09",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_10_14",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_15_19",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_20_24",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_25_29",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_30_34",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_35_39",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_40_44",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_45_49",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_50_54",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_55_59",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_60_64",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_65_69",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_70_74",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_75_79",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "F_80Plus",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_00_04",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_05_09",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_10_14",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_15_19",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_20_24",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_25_29",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_30_34",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_35_39",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_40_44",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_45_49",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_50_54",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_55_59",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_60_64",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_65_69",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_70_74",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_75_79",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "M_80Plus",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_00_04",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_05_09",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_10_14",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_15_19",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_20_24",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_25_29",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_30_34",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_35_39",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_40_44",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_45_49",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_50_54",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_55_59",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_60_64",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_65_69",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_70_74",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_75_79",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "T_80Plus",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
