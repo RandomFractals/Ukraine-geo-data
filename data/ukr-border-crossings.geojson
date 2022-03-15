@@ -1,0 +1,464 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.80777061,
+          51.18522136
+        ]
+      },
+      "properties": {
+        "name - Eng": "Dorohusk-Jagodzin",
+        "name - Ukr": "Дорогуськ-Ягодзін",
+        "country": "Poland",
+        "long": 23.80777061,
+        "lat": 51.18522136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.083659000000004,
+          50.578525
+        ]
+      },
+      "properties": {
+        "name - Eng": "Dolhobyczów-Uhrynów",
+        "name - Ukr": "Долгобичів-Угринів",
+        "country": "Poland",
+        "long": 24.083659,
+        "lat": 50.578525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.134685,
+          50.859265
+        ]
+      },
+      "properties": {
+        "name - Eng": "Zosin-Ustyluh",
+        "name - Ukr": "Зосін-Устилуг",
+        "country": "Poland",
+        "long": 24.134685,
+        "lat": 50.859265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58850804,
+          50.27454176
+        ]
+      },
+      "properties": {
+        "name - Eng": "Hrebenne-Rawa Ruska",
+        "name - Ukr": "Гребенне-Рава Руська",
+        "country": "Poland",
+        "long": 23.58850804,
+        "lat": 50.27454176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.113886880000003,
+          49.95498654
+        ]
+      },
+      "properties": {
+        "name - Eng": "Korczowa-Krakowiec",
+        "name - Ukr": "Корчова-Краковець",
+        "country": "Poland",
+        "long": 23.11388688,
+        "lat": 49.95498654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.94735892,
+          49.79971071
+        ]
+      },
+      "properties": {
+        "name - Eng": "Medyka-Szeginie",
+        "name - Ukr": "Медика-Сегінє",
+        "country": "Poland",
+        "long": 22.94735892,
+        "lat": 49.79971071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.28016,
+          50.096915
+        ]
+      },
+      "properties": {
+        "name - Eng": "Budomierz-Hruszew",
+        "name - Ukr": "Будомир-Грушів",
+        "country": "Poland",
+        "long": 23.28016,
+        "lat": 50.096915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.701307,
+          49.481555
+        ]
+      },
+      "properties": {
+        "name - Eng": "Krościenko-Smolnica",
+        "name - Ukr": "Крощенко-Смольниця",
+        "country": "Poland",
+        "long": 22.701307,
+        "lat": 49.481555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.62339862,
+          48.26573925
+        ]
+      },
+      "properties": {
+        "name - Eng": "Mamalyha-Кryva",
+        "name - Ukr": "Мамалига-Крива",
+        "country": "Moldova",
+        "long": 26.62339862,
+        "lat": 48.26573925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.04595033,
+          48.37856529
+        ]
+      },
+      "properties": {
+        "name - Eng": "Rossoshany-Brichen",
+        "name - Ukr": "Россошани-Брічень",
+        "country": "Moldova",
+        "long": 27.04595033,
+        "lat": 48.37856529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4628582,
+          48.43939414
+        ]
+      },
+      "properties": {
+        "name - Eng": "Sokyriany-Oknytsia",
+        "name - Ukr": "Сокиряни-Окниця",
+        "country": "Moldova",
+        "long": 27.4628582,
+        "lat": 48.43939414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.79135141,
+          48.44485856
+        ]
+      },
+      "properties": {
+        "name - Eng": "Mohyliv-Podilskyi-Otach",
+        "name - Ukr": "Могилів-Подільський-Отач",
+        "country": "Moldova",
+        "long": 27.79135141,
+        "lat": 48.44485856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.974434010000003,
+          46.7372123
+        ]
+      },
+      "properties": {
+        "name - Eng": "Kuchurhan-Pervomaisk",
+        "name - Ukr": "Кучурган-Первомайськ",
+        "country": "Moldova",
+        "long": 29.97443401,
+        "lat": 46.7372123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.501104800000004,
+          45.69756986
+        ]
+      },
+      "properties": {
+        "name - Eng": "Vynohradivka-Vulcanesti",
+        "name - Ukr": "Виноградівка-Вулкенєшть",
+        "country": "Moldova",
+        "long": 28.5011048,
+        "lat": 45.69756986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.08740462,
+          46.38454415
+        ]
+      },
+      "properties": {
+        "name - Eng": "Maiaky-Udobne-Palanka",
+        "name - Ukr": "Маяки-Удобне-Паланка",
+        "country": "Moldova",
+        "long": 30.08740462,
+        "lat": 46.38454415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.996635709999996,
+          46.32140605
+        ]
+      },
+      "properties": {
+        "name - Eng": "Basarabiaska",
+        "name - Ukr": "Басараб'яска",
+        "country": "Moldova",
+        "long": 28.99663571,
+        "lat": 46.32140605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.00253023,
+          48.00019427
+        ]
+      },
+      "properties": {
+        "name - Eng": "Diakove-Halmeu",
+        "name - Ukr": "Дякове-Халмеу",
+        "country": "Romania",
+        "long": 23.00253023,
+        "lat": 48.00019427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.87810145,
+          47.94060199
+        ]
+      },
+      "properties": {
+        "name - Eng": "Solotvyno-Sihetu Marmatsiiei",
+        "name - Ukr": "Солотвино-Сігету Мармацієй",
+        "country": "Romania",
+        "long": 23.87810145,
+        "lat": 47.94060199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0600757,
+          47.9889805
+        ]
+      },
+      "properties": {
+        "name - Eng": "Porubne-Siret",
+        "name - Ukr": "Порубне-Сірет",
+        "country": "Romania",
+        "long": 26.0600757,
+        "lat": 47.9889805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.457658530000003,
+          45.29415433
+        ]
+      },
+      "properties": {
+        "name - Eng": "Isaceea - Orlivka",
+        "name - Ukr": "Орлівка – ісакча",
+        "country": "Romania",
+        "long": 28.45765853,
+        "lat": 45.29415433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.26598262,
+          48.65552196
+        ]
+      },
+      "properties": {
+        "name - Eng": "Uzhhorod-Vyshnie-Niemetske",
+        "name - Ukr": "Ужгород-Вишнє Нємецьке",
+        "country": "Slovakia",
+        "long": 22.26598262,
+        "lat": 48.65552196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.42062492,
+          48.88520485
+        ]
+      },
+      "properties": {
+        "name - Eng": "Malyi Bereznyi-Ubl'a",
+        "name - Ukr": "Малий Березний-Убля",
+        "country": "Slovakia",
+        "long": 22.42062492,
+        "lat": 48.88520485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.31821142,
+          48.31842699
+        ]
+      },
+      "properties": {
+        "name - Eng": "Dzvinkove - Lonia",
+        "name - Ukr": "Дзвінкове",
+        "country": "Hungary",
+        "long": 22.31821142,
+        "lat": 48.31842699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.17006581,
+          48.41859369
+        ]
+      },
+      "properties": {
+        "name - Eng": "Chop (Tysa) - Zakhon",
+        "name - Ukr": "Чоп-Захонь",
+        "country": "Hungary",
+        "long": 22.17006581,
+        "lat": 48.41859369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8351653,
+          48.09391098
+        ]
+      },
+      "properties": {
+        "name - Eng": "Vylok - Tisabech",
+        "name - Ukr": "Вилок-Тісабеч",
+        "country": "Hungary",
+        "long": 22.8351653,
+        "lat": 48.09391098
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.57404861,
+          48.16675156
+        ]
+      },
+      "properties": {
+        "name - Eng": "Luzhanka - Beregshuhan",
+        "name - Ukr": "Лужанка-Берегшурань",
+        "country": "Hungary",
+        "long": 22.57404861,
+        "lat": 48.16675156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.44577355,
+          48.24615527
+        ]
+      },
+      "properties": {
+        "name - Eng": "Barabási - Kosyno",
+        "name - Ukr": "Косино",
+        "country": "Hungary",
+        "long": 22.44577355,
+        "lat": 48.24615527
+      }
+    }
+  ]
+}
