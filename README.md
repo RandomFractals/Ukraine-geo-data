@@ -32,6 +32,7 @@ Data repository for geo spatial applications about Ukraine
 - [Russia-Ukraine Monitor Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) by [Center for Information Resilience](https://twitter.com/Cen4infoRes)
 - [Operational Data Portal: Ukraine Refugee Situation Data & Map](https://data2.unhcr.org/en/situations/ukraine)
 
-## Humanitarian Impact Reports
+## Humanitarian Response & Reports
 
-- [2022-03-15: Ukraine Humanitarian Impact Situation Report](https://reliefweb.int/sites/reliefweb.int/files/resources/2022-03-15_Ukraine%20Humanitarian%20Impact%20SitRep.pdf)
+- [Humanitarian Response Operations: Ukraine](https://www.humanitarianresponse.info/en/operations/ukraine)
+- [Ukraine: Humanitarian Impact Situation Reports](https://reliefweb.int/updates?advanced-search=%28PC241%29_%28S1503%29_%28F10%29)
