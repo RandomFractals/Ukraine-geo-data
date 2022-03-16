@@ -4,7 +4,7 @@ Data repository for geo spatial applications about Ukraine
 
 ## Observable Notebooks 📚
 
-[Observable](https://observablehq.com/explore) notebooks about [Ukraine](https://observablehq.com/search?query=Ukraine)
+[Observable](https://observablehq.com/explore) notebooks about [Ukraine](https://observablehq.com/search?query=Ukraine):
 
 - [Can you point to Ukraine on a map?](https://observablehq.com/@chriszs/point-to-ukraine-on-a-map)
 - [Which countries border Ukraine?](https://observablehq.com/@bagami/who-are-ukraines-neighbours)
@@ -23,3 +23,5 @@ Data repository for geo spatial applications about Ukraine
 - [DataBank: UKR Contry Profile](https://databank.worldbank.org/views/reports/reportwidget.aspx?Report_Name=CountryProfile&Id=b450fd57&tbar=y&dd=y&inf=n&zm=n&country=UKR)
 - [DataBank: UKR World Development Indicators](https://databank.worldbank.org/reports.aspx?source=2&country=UKR)
 - [Humanitarian Data Exchange: Ukraine](https://data.humdata.org/group/ukr)
+- [HDX: Ukraine - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ukr)
+- [HDX: Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr)
