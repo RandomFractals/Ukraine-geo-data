@@ -29,3 +29,4 @@ Data repository for geo spatial applications about Ukraine
 ## Maps 🗺️
 
 - [OCHA](https://www.unocha.org/)/[HDX](https://data.humdata.org/): [Ukriane Humanitarian Operations Data Explorer](https://data.humdata.org/visualization/ukraine-humanitarian-operations/)
+- [Russia-Ukraine Monitor Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) by [Center for Information Resilience](https://twitter.com/Cen4infoRes)
