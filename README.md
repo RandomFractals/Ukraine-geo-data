@@ -19,6 +19,7 @@ Data repository for geo spatial applications about Ukraine
 
 ## Datasets
 
-[The World Bank: Ukraine](https://data.worldbank.org/country/ukraine?view=chart)
-[DataBank: UKR Contry Profile](https://databank.worldbank.org/views/reports/reportwidget.aspx?Report_Name=CountryProfile&Id=b450fd57&tbar=y&dd=y&inf=n&zm=n&country=UKR)
-[DataBank: UKR World Development Indicators](https://databank.worldbank.org/reports.aspx?source=2&country=UKR)
+- [The World Bank: Ukraine](https://data.worldbank.org/country/ukraine?view=chart)
+- [DataBank: UKR Contry Profile](https://databank.worldbank.org/views/reports/reportwidget.aspx?Report_Name=CountryProfile&Id=b450fd57&tbar=y&dd=y&inf=n&zm=n&country=UKR)
+- [DataBank: UKR World Development Indicators](https://databank.worldbank.org/reports.aspx?source=2&country=UKR)
+- [Humanitarian Data Exchange: Ukraine](https://data.humdata.org/group/ukr)
