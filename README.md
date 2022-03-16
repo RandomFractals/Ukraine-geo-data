@@ -16,3 +16,9 @@ Data repository for geo spatial applications about Ukraine
 - [How flights between Europe and Eastern Asia got disrupted](https://observablehq.com/@espinielli/war-in-ukraine-airspace-blockade)
 - [Ukrainian Refugees](https://observablehq.com/@rafacmc/ukrainian-refugees)
 - [Where millions of Ukrainian refugees are fleeing from war](https://observablehq.com/@chriszs/where-1-3-million-ukrainian-refugees-fled-from-war)
+
+## Datasets
+
+[The World Bank: Ukraine](https://data.worldbank.org/country/ukraine?view=chart)
+[DataBank: UKR Contry Profile](https://databank.worldbank.org/views/reports/reportwidget.aspx?Report_Name=CountryProfile&Id=b450fd57&tbar=y&dd=y&inf=n&zm=n&country=UKR)
+[DataBank: UKR World Development Indicators](https://databank.worldbank.org/reports.aspx?source=2&country=UKR)
